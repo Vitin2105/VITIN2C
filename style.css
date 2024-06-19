@@ -1,0 +1,12 @@
+body {background-color:#ff0000;
+}
+
+@media screen and ( max-width:600px  ){
+}
+.part1{color: red;
+     font-size: 150%;}
+.part2{color:aqua;font-size: 150%;}
+.part3{color:blue;font-size: 150%;}
+.part4{color:blueviolet;font-size: 150%;}
+button{background-color: azure;}
+    
